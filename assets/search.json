@@ -1,0 +1,38 @@
+[
+  
+    {
+      "title"    : "Reversing IOT: Part 1",
+      "tags"     : "",
+      "url"      : "/reversing-iot-part-1/",
+      "date"     : "2021-09-22 16:47:00 -0300"
+    } ,
+  
+    {
+      "title"    : "Tools: githubGrep",
+      "tags"     : "",
+      "url"      : "/gitgrep/",
+      "date"     : "2021-07-15 16:51:00 -0400"
+    } ,
+  
+    {
+      "title"    : "Creating a Serverless Exfiltrating Bot with AWS Lambda and Telegram",
+      "tags"     : "",
+      "url"      : "/awslambda-telegrambot/",
+      "date"     : "2021-07-15 00:04:20 -0400"
+    } ,
+  
+    {
+      "title"    : "Tools: postMessageFinder",
+      "tags"     : "",
+      "url"      : "/postsmessagefinder/",
+      "date"     : "2021-07-12 01:25:20 -0400"
+    } ,
+  
+    {
+      "title"    : "I&#39;m baaaaaaaaaaaaack!",
+      "tags"     : "",
+      "url"      : "/im-baaaack/",
+      "date"     : "2021-07-12 00:19:20 -0400"
+    } 
+  
+]
